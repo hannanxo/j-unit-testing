@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExamTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-06-11T14:31:05" hostname="DESKTOP-LCEHO17" time="0.057">
+  <properties/>
+  <testcase name="test10()" classname="ExamTest" time="0.032"/>
+  <testcase name="test()" classname="ExamTest" time="0.005"/>
+  <testcase name="test1()" classname="ExamTest" time="0.002"/>
+  <testcase name="test2()" classname="ExamTest" time="0.002"/>
+  <testcase name="test3()" classname="ExamTest" time="0.001"/>
+  <testcase name="test4()" classname="ExamTest" time="0.001"/>
+  <testcase name="test5()" classname="ExamTest" time="0.001"/>
+  <testcase name="test6()" classname="ExamTest" time="0.001"/>
+  <testcase name="test7()" classname="ExamTest" time="0.001"/>
+  <testcase name="test8()" classname="ExamTest" time="0.001"/>
+  <testcase name="test9()" classname="ExamTest" time="0.0"/>
+  <system-out><![CDATA[Bonus to instructor
+Bonus to instructor
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
